@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.topContainer{
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  width: 400px;
+
+
+}
+.imgFrame{
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+  border: 3px groove gray;
+}
+form{
+  background-color: azure;
+  border: 6px solid brown;
+  border-radius: 5px;
+  height: 600px;
+  /* width: 700px; */
+}
+label{
+  font-size: 20px;
+  color: chocolate;
+  font-family: serif;
+  display: inline-block;
+}
+h1{
+  color: blueviolet;
+  font-family:monospace;
+}
+h3{
+  text-align: justify;
+  color: rgb(243, 17, 111);
+}
